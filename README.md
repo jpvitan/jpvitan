@@ -1,16 +1,24 @@
-### Hi there 👋
+![Banner](https://res.cloudinary.com/dhv9gcew6/image/upload/q_auto/v1632252715/www.jpvitan.com__bsorvf.png)
 
-<!--
-**jpvitan/jpvitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! 👋
+I'm Justine Paul Vitan, a software developer who loves to build fast and responsive applications for multiple platforms. I currently do full-stack development and native app development for iOS and Android.
 
-Here are some ideas to get you started:
+Aside from the usual software development stuff, I'm also interested in CS theory, cryptography, deep learning, and amateur astronomy. I sometimes write blogs in my spare time to share my knowledge about a specific subject or topic that interests me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this age of "big data," my next objective is to advance and expand my knowledge in the field of artificial intelligence and develop applications that take advantage of this technology.
+
+
+# Links 💻
+[Website](https://www.jpvitan.com/)
+
+
+[Projects](https://jpvitan.com/portfolio)
+
+
+[Blog](https://jpvitan.com/blog)
+
+
+[Contact](https://jpvitan.com/contact)
+
+
+[Resume](https://jpvitan.com/resume)
