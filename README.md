@@ -1,12 +1,38 @@
-![Banner](https://res.cloudinary.com/dhv9gcew6/image/upload/q_auto/v1633559177/banner-github_acjh65.png)
+![Banner](https://res.cloudinary.com/dhv9gcew6/image/upload/q_auto/v1642372427/others/GitHub/banner-github_oejcdp.png)
 
 
-# ![Icon](https://res.cloudinary.com/dhv9gcew6/image/upload/q_auto,h_30,w_30/v1634086809/hello_tospbm.png) Hello!
-I'm Justine Paul Vitan, a software developer who loves to build fast and responsive applications for multiple platforms. I currently do full-stack development and native app development for Android and iOS.
+I'm **Justine Paul Vitan**, a software developer who loves to build fast and responsive applications for multiple platforms. I currently do full-stack development and native app development for Android and iOS.
 
 
-# ![Icon](https://res.cloudinary.com/dhv9gcew6/image/upload/q_auto,h_30,w_30/v1634487764/question-mark_juq5su.png) Get To Know Me More
-If you want to know more about me, you may visit my website by clicking this [link](https://jpvitan.com/) or scanning the QR code below.
+If you want to know more about me, you could visit my **[website](https://jpvitan.com/)** and view my latest projects and blogs.
 
 
-![Website QR](https://res.cloudinary.com/dhv9gcew6/image/upload/q_auto/v1633562308/banner-website-qr_o2sjyv.png)
+<a href="https://jpvitan.com/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
+        alt="Website" />
+</a>
+<a href="https://www.linkedin.com/in/jpvitan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/jpvitan_dev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+        alt="Twitter" />
+</a>
+<a href="https://api.whatsapp.com/send/?phone=639661869258&text&app_absent=0">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        alt="WhatsApp" />
+</a>
+<a href="https://www.youtube.com/channel/UCTTsnWdE4HSmC7He74GxzrA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+        alt="YouTube" />
+</a>
+
+
+***
+
+
+**Statistics 📈**
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpvitan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
