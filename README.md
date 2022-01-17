@@ -27,12 +27,8 @@ If you want to know more about me, you could visit my **[website](https://jpvita
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         alt="YouTube" />
 </a>
-
-
-***
-
-
-**Statistics 📈**
+<br />
+<br />
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpvitan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
