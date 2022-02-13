@@ -1,7 +1,7 @@
 ![Banner](https://res.cloudinary.com/dhv9gcew6/image/upload/q_auto/v1642372427/others/GitHub/banner-github_oejcdp.png)
 
 
-I'm **Justine Paul Vitan**, a software developer who loves to build fast and responsive applications for multiple platforms. I currently do full-stack development and native app development for Android and iOS.
+I'm **Justine Paul Vitan**, a software developer who writes top-quality code to build mobile and web applications.
 
 
 If you want to know more about me, you could visit my **[website](https://jpvitan.com/)** and view my latest projects and blogs.
