@@ -1,10 +1,13 @@
-![Banner](https://res.cloudinary.com/dhv9gcew6/image/upload/q_auto/v1642372427/others/GitHub/banner-github_oejcdp.png)
+![Banner](https://res.cloudinary.com/dhv9gcew6/image/upload/q_auto/v1644324623/faq/cat_v1erjx.jpg)
 
 
-I'm **Justine Paul Vitan**, a software developer who writes top-quality code to build mobile and web applications.
+I'm **Justine Paul Vitan**, a mobile and web developer based in the Philippines. I've been building and designing mobile and web applications as a hobby and profession. For the past few years, I've published many applications to prove my competency in developing and designing software.
 
 
-If you want to know more about me, you could visit my **[website](https://jpvitan.com/)** and view my latest projects and blogs.
+Personality-wise, I love to describe myself as a tenacious person. I'm always insistent on finishing my goal, even if it gets to the point where I have to exhaust all my resources. This mindset allowed me to develop complex applications such as a satellite tracking app and a machine learning model that utilizes convolutional neural networks.
+
+
+Moving forward, it is in my best interest to diversify, expand, and modernize my skill set to meet the demands of the industry. I'm always willing to learn and explore new things.
 
 
 <a href="https://jpvitan.com/">
