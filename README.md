@@ -25,11 +25,11 @@ Moving forward, it is in my best interest to diversify, expand, and modernize my
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
         alt="Twitter" />
 </a>
-<a href="https://api.whatsapp.com/send/?phone=639661869258&text&app_absent=0">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-        alt="WhatsApp" />
-</a>
 <a href="https://www.youtube.com/channel/UCTTsnWdE4HSmC7He74GxzrA">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         alt="YouTube" />
+</a>
+<a href="https://api.whatsapp.com/send/?phone=639661869258&text&app_absent=0">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        alt="WhatsApp" />
 </a>
