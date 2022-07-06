@@ -10,9 +10,6 @@ Personality-wise, I love to describe myself as a tenacious person. I'm always in
 Moving forward, it is in my best interest to diversify, expand, and modernize my skill set to meet the demands of the industry. I'm always willing to learn and explore new things.
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpvitan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
 <a href="https://jpvitan.com/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
         alt="Website" />
@@ -37,3 +34,9 @@ Moving forward, it is in my best interest to diversify, expand, and modernize my
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
         alt="Telegram" />
 </a>
+
+
+---
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpvitan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
