@@ -11,3 +11,13 @@ Personality-wise, I love to describe myself as a tenacious person. I'm always in
 
 
 Moving forward, it is in my best interest to diversify, expand, and modernize my skill set to meet the demands of the industry. I'm always willing to learn and explore new things.
+
+
+# Links
+
+
+- [Projects](https://jpvitan.com/portfolio)
+- [Blog](https://jpvitan.com/blog)
+- [Resume](https://drive.google.com/file/d/1CSINyY0zE48QMUpAPvxsUSSJfnGJ0Nk9/view)
+- [Certificates](https://drive.google.com/drive/folders/1XhgPGvFUXtb_99ATdpOCHK0p0pUJ3NZz)
+- [Frequently Asked Questions](https://jpvitan.com/faq)
