@@ -42,3 +42,9 @@ Moving forward, it is in my best interest to diversify, expand, and modernize my
     <img src="https://github.com/jpvitan/jpvitan/blob/main/icons/whatsapp.png"
         alt="WhatsApp" width="40" height="40" />
 </a>
+
+
+# Statistics
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpvitan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
