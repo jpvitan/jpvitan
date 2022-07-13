@@ -21,3 +21,24 @@ Moving forward, it is in my best interest to diversify, expand, and modernize my
 - [Resume](https://drive.google.com/file/d/1CSINyY0zE48QMUpAPvxsUSSJfnGJ0Nk9/view)
 - [Certificates](https://drive.google.com/drive/folders/1XhgPGvFUXtb_99ATdpOCHK0p0pUJ3NZz)
 - [Frequently Asked Questions](https://jpvitan.com/faq)
+
+
+# Social
+
+
+<a href="https://www.linkedin.com/in/jpvitan">
+    <img src="https://github.com/jpvitan/jpvitan/blob/main/icons/linkedin.png"
+        alt="LinkedIn" width="40" height="40" />
+</a>
+<a href="https://twitter.com/jpvitan_dev">
+    <img src="https://github.com/jpvitan/jpvitan/blob/main/icons/twitter.png"
+        alt="Twitter" width="40" height="40" />
+</a>
+<a href="https://www.youtube.com/channel/UCTTsnWdE4HSmC7He74GxzrA">
+    <img src="https://github.com/jpvitan/jpvitan/blob/main/icons/youtube.png"
+        alt="YouTube" width="40" height="40" />
+</a>
+<a href="https://api.whatsapp.com/send/?phone=639661869258&text&app_absent=0">
+    <img src="https://github.com/jpvitan/jpvitan/blob/main/icons/whatsapp.png"
+        alt="WhatsApp" width="40" height="40" />
+</a>
