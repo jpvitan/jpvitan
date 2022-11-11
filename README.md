@@ -48,4 +48,4 @@ Moving forward, it is in my best interest to diversify, expand, and modernize my
 # Statistics
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpvitan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jpvitan&hide_border=true&theme=highcontrast)](https://git.io/streak-stats)
