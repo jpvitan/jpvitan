@@ -48,4 +48,4 @@ Moving forward, it is in my best interest to diversify, expand, and modernize my
 # Statistics
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jpvitan&hide_border=true&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jpvitan&hide_border=true&theme=dark)](https://git.io/streak-stats)
