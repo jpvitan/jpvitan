@@ -21,7 +21,6 @@ Moving forward, it is in my best interest to diversify, expand, and modernize my
 - [Message](https://jpvitan.com/contact)
 - [Resume](https://drive.google.com/file/d/1CSINyY0zE48QMUpAPvxsUSSJfnGJ0Nk9/view)
 - [Certificates](https://drive.google.com/drive/folders/1XhgPGvFUXtb_99ATdpOCHK0p0pUJ3NZz)
-- [Frequently Asked Questions](https://jpvitan.com/faq)
 
 
 # Social
