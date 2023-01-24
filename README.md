@@ -16,7 +16,7 @@ Moving forward, it is in my best interest to diversify, expand, and modernize my
 # Links
 
 
-- [Projects](https://jpvitan.com/portfolio)
+- [Projects](https://jpvitan.com/apps)
 - [Resume](https://drive.google.com/file/d/1CSINyY0zE48QMUpAPvxsUSSJfnGJ0Nk9/view)
 - [Certificates](https://drive.google.com/drive/folders/1XhgPGvFUXtb_99ATdpOCHK0p0pUJ3NZz)
 
