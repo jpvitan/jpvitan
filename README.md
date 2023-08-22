@@ -1,1 +1,1 @@
-<a href="https://jpvitan.com/">![Banner](https://github.com/jpvitan/jpvitan/blob/main/resources/images/website/banner.png)</a>
+<a href="https://jpvitan.com/apps">![Banner](https://github.com/jpvitan/jpvitan/blob/main/resources/images/website/banners/apps.png)</a>
